@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: url("https://cdn.shopify.com/s/files/1/0734/7909/files/13_large.jpg?v=1560437523");
+    background-size: cover;
+    color:rgb(243, 9, 9);
+    font-size: 45px;
+}
+img{
+    width:450px;
+    height:500px;
+    border: 5px ridge purple;
+    border-radius:14px;
+
+}
+img:hover{
+    width:600px;
+    height:600px;
+}
